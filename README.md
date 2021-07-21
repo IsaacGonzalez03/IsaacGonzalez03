@@ -8,7 +8,7 @@
 
 ### I am currently learning to manage the Vue.js front-end w/ a C# MySql Backend - Looking to master this!
 
-### Feel free to message me - email/linkedin
+### Feel free to message me about projects and or my hobbies down below - email/linkedin
 
 # Contact Info
 
@@ -17,10 +17,10 @@
 
 # Hobbies
 
-### Guitar
+- Guitar
 
-### Backpacking
+- Backpacking
 
-### Dog Lover
+- Dog Lover
 
-### Retro Video Games
+- Retro Video Games
