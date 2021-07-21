@@ -1,16 +1,26 @@
-### Hi there 👋
+# Howdy!
 
-<!--
-**IsaacGonzalez03/IsaacGonzalez03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is Isaac Gonzalez and I am a Full-Stack Developer! 
 
-Here are some ideas to get you started:
+- After college I worked in the medical field a few years and wanted to make some improvements to the software we were using.  I asked myself how hard can it be? Turns out it was hard enough for me to change career paths completely!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Been loving everything about it!
+
+-I am currently learning to manage the Vue.js front-end w/ a C# MySql Backend - Looking to master this!
+
+-Feel free to message me - email/linkedin
+
+# Contact Info
+
+- isaac.albert.g@gmail.com
+- www.linkedin.com/in/isaacgonzalez03
+
+# Hobbies
+
+- Guitar
+
+- Backpacking
+
+- Dog Lover
+
+- Retro Video Games
