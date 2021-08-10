@@ -6,7 +6,7 @@
 
 ### Been loving everything about it!
 
-### I am currently learning to manage the Vue.js front-end w/ a C# MySql Backend - Looking to master this!
+### Currently learning Angular! 
 
 ### Feel free to message me about projects and or my hobbies down below - email/linkedin
 
