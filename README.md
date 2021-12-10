@@ -8,6 +8,8 @@
 
 ### Currently learning Angular and NgRX! 
 
+### I was participating in my companies Dev training for the past 3 months! It was awesome and I learned a lot!
+
 ### Feel free to message me about projects and or my hobbies down below - email/linkedin
 
 # Contact Info
