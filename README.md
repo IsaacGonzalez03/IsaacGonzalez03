@@ -6,7 +6,7 @@
 
 ### Been loving everything about it!
 
-### Currently learning Angular! 
+### Currently learning Angular and NgRX! 
 
 ### Feel free to message me about projects and or my hobbies down below - email/linkedin
 
