@@ -1,14 +1,4 @@
-# Howdy!
-
-### My name is Isaac Gonzalez and I am a Full-Stack Developer! 
-
-### After college I worked in the medical field a few years and wanted to make some improvements to the software we were using.  I asked myself how hard can it be? Turns out it was hard enough for me to change career paths completely!
-
-### Been loving everything about it!
-
-### Currently learning Angular and NgRX! 
-
-### I was participating in my companies Dev training for the past 3 months! It was awesome and I learned a lot!
+### My name is Isaac Gonzalez and I am a Full-Stack Dev!
 
 ### Feel free to message me about projects and or my hobbies down below - email/linkedin
 
